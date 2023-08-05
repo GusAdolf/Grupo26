@@ -1,2 +1,3 @@
-# Grupo26
-Grupo Gustavo Contreras y Deither Canseco
+Untracked :flags:
+modified :gift:
+staged :stuck_out_tongue_winking_eye:
